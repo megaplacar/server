@@ -11,6 +11,6 @@ The tabelada server is running with Express and written in Typescript.
 5. Change directory: `cd server`
 6. Install yarn globally: `npm install -g yarn`
 7. Install dependencies: `yarn`
-8. Run the server locally: `yarn stat`
+8. Run the server locally: `yarn start`
 
 Prefer `yarn` than `npm`.
